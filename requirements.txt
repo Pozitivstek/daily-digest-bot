@@ -1,0 +1,6 @@
+aiogram>=3.13,<4
+aiosqlite>=0.20
+aiohttp>=3.9
+defusedxml>=0.7
+python-dotenv>=1.0
+tzdata
